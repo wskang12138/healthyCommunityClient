@@ -1,0 +1,10 @@
+/dist/*
+.local
+.output.js
+/node_modules/**
+
+**/*.svg
+**/*.sh
+**/*.yml
+**/svgo.yml
+src/assets/404_images

@@ -1,0 +1,5 @@
+build/*.js
+public
+dist
+src/assets/404_images
+src/styles
