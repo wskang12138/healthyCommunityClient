@@ -150,7 +150,6 @@ export default {
             .then(() => {
               this.$store.dispatch('user/getInfo').then(() => {
                 window.location.reload()
-                window.location.reload()
                 this.$router.push({ path: this.redirect || '/' })
                 this.loading = false
               })
