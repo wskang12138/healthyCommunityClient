@@ -77,6 +77,13 @@ Vue全家桶+Webpack+js+axios+wesocket+ElementUI</br>
 ### 4.规范
 
 ```bash
+## 文件命名规范
+
+- 组件：文件夹用小写英文，多个单词用短横线 `-` 连接；文件夹内添加`index.js`
+
+- 组件样式：在组件同一级，名称统一为`style.module.scss`
+
+- 公共样式：根据实际功能命名，例如基础样式：`base.scss`
 
 ## Git 约定式提交格式校验
 
